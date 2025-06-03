@@ -1,8 +1,7 @@
 # LiDAR-camera-calibration-summary
 ## LiDAR-camera calibration algorithms
 
-
-1. Summary of the current mainstream open-source LiDAR-camera calibration algorithms. We provide the algorithm's web links, sensor types, corresponding literature sources, and the calibration framework category to which it belongs. This summary will be continuously updated to provide a convenient and concise radar and camera calibration checklist for radar and camera calibration researchers. Suggestions are welcome, and we will strive to do better. 
+Summary of the current mainstream open-source LiDAR-camera calibration algorithms. We provide the algorithm's web links, sensor types, corresponding literature sources, and the calibration framework category to which it belongs. This summary will be continuously updated to provide a convenient and concise radar and camera calibration checklist for radar and camera calibration researchers. Suggestions are welcome, and we will strive to do better. 
 * ACSC: Automatic calibration for non-repetitive scanning solid-state LiDAR and camera systems [open-source link](https://github.com/HViktorTsoi/ACSC.git)
 * Automatic extrinsic calibration method for lidar and camera sensor setups [open-source link](https://github.com/beltransen/velo2cam_calibration )
 * Joint camera intrinsic and lidar-camera extrinsic calibration [open-source link](https://github.com/ankitdhall/lidar_camera_calibration)
@@ -27,6 +26,7 @@
 * RGGNet: Tolerance aware LiDAR-camera online calibration with geometric deep learning and generative model [open-source link](https://github.com/KleinYuan/RGGNet)
 
 ## Datasets that can be used to validate radar and camera calibration algorithms
+We have summarized the datasets that can be used to verify the calibration effects of radar and camera. To facilitate researchers’ use, we provide not only the dataset links but also the dataset collection platform and the sensors.
 * KITTI [Dataset link](https://www.cvlibs.net/datasets/kitti/)
 * Bovisa [Dataset link](http://www.rawseeds.org/home/)
 * Malaga [Dataset link](https://daniilidis-group.github.io/mvsec/download/)
